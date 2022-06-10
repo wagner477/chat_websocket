@@ -1,0 +1,7 @@
+{
+  "name": "chat_websocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wagner Oliveira de Almeida <61123555+wagner477@users.noreply.github.com>",
+  "license": "MIT"
+}
